@@ -6,3 +6,8 @@ Licht ook toe wat de rol van de ontwerper was in relatie tot de gebruikte tools.
 Integreer een kritische reflectie in deze toelichting.
 
 [← Kritische Reflectie](reflectie.md) · [Bijlagen →](bijlagen.md) 
+
+
+VANAF HIER BEGINT TEKST:
+
+Storyboard - Figma AI gebruikt, op basis van per situatie gegeven uitleg, voor totaal 9 situaties.
