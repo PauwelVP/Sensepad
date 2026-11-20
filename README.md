@@ -1,7 +1,7 @@
 # Zablurb
 *Omschrijving van je concept in 1 zin. Bijvoorbeeld: Zablurb (naam van je product), een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren. Dit is de 'value promise', die in 1 sterke zin zegt wat je product doet, duidelijk voor iemand die je project nog niet kende. Voeg deze zelfde omschrijving ook toe aan Github (rechtsboven bij 'about' op het tandwiel klikken).*
 
-Sensepad, een tactiele vervanging voor de computermuis voor blinde mensen, om hun meer context, overzicht en efficientie in de navigatie van websites en apps te geven.
+Sensepad, een tactiele vervanging van de computermuis voor blinde mensen met als doel hun meer context, overzicht en efficientie in de navigatie van websites en apps te geven.
 
 
 > 🛠️ Built by `Pauwel Van Praet` & `Sibe Korsgaard`  
